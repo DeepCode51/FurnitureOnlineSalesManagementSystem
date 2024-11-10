@@ -1,0 +1,165 @@
+
+
+.login_top {
+    width: 960px;
+    height: 130px;
+    margin: 0 auto;
+}
+
+.login_logo {
+    display: block;
+    width:100%;
+    height: 76px;
+    margin-top: 30px;
+    line-height:70px;
+    font-size:33px;
+    font-weight: 600;
+    color:#0bb70e;
+}
+
+
+.login_form_bg {
+    height: 480px;
+    background-color: #8080ff
+}
+
+.no-mp {
+    margin-top: 0px;
+}
+
+.login_form_wrap {
+    width: 960px;
+    height: 480px;
+    margin: 0 auto;
+}
+
+.login_banner {
+    width: 381px;
+    height: 322px;
+    background: url(../images/login_banner.png) no-repeat;
+    margin-top: 90px;
+}
+
+.slogan {
+    width: 40px;
+    height: 300px;
+    font-size: 30px;
+    color: #f0f9e8;
+    text-align: center;
+    line-height: 36px;
+    margin: 80px 0 0 120px
+}
+
+.login_form {
+    width: 368px;
+    height: 378px;
+    border: 1px solid #c6c6c5;
+    background-color: #fff;
+    margin-top: 50px;
+}
+
+.login_title {
+    height: 60px;
+    width: 308px;
+    margin: 10px auto;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.login_title h1 {
+    font-size: 24px;
+    height: 60px;
+    line-height: 60px;
+    color: #a8a8a8;
+    float: left;
+    font-weight: bold;
+    margin-left: 44px;
+}
+
+.login_title a {
+    width: 100px;
+    height: 20px;
+    display: block;
+    font-size: 16px;
+    color: #5fb42a;
+    text-indent: 26px;
+    background: url(../images/icons02.png) left 5px no-repeat;
+    float: left;
+    margin: 20px 0 0 36px
+}
+
+
+.login-input{
+
+    width: 298px;
+    height: 46px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    margin-left: 20px;
+    padding-left: 10px;
+    line-height: 46px;
+}
+
+.login-btn{
+    border: none;
+    padding-left: 0;
+    width: 310px;
+    height: 48px;
+    background:#059d17;
+    color: white;
+    margin: 20px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.login-box {
+    width: 308px;
+    height: 250px;
+    margin: 20px auto;
+    position: relative;
+}
+.login-box  .table-row{
+
+    margin-bottom:30px;
+
+}
+
+.more_input {
+    position: absolute;
+    left: 0;
+    top: 130px;
+    width: 100%
+}
+
+.more_input input {
+    float: left;
+    margin-top: 2px;
+}
+
+.more_input label {
+    float: left;
+    margin-left: 10px;
+}
+
+.more_input a {
+    float: right;
+    color: #666
+}
+
+.more_input a:hover {
+    color: #ff8800
+}
+
+.input_submit {
+    width: 100%;
+    height: 40px;
+    position: absolute;
+    left: 0;
+    top: 180px;
+    background-color: #47aa34;
+    color: #fff;
+    font-size: 22px;
+    border: 0px;
+    font-family: 'Microsoft Yahei';
+    cursor: pointer;
+}
